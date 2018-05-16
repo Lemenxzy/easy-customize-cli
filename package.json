@@ -1,5 +1,5 @@
 {
-  "name": "Easy-customize-cli ！",
+  "name": "Easy-customize-cli",
   "version": "0.0.1",
   "description": "Easy-cli can help you quickly build your own scaffolding (cli), add, delete, check and other functions. ",
   "bin": {
