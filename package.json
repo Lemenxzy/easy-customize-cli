@@ -1,6 +1,6 @@
 {
   "name": "easy-customize-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Easy-cli can help you quickly build your own scaffolding (cli), add, delete, check and other functions. ",
   "bin": {
     "easy": "bin/index.js"
@@ -28,13 +28,11 @@
   "bugs": {
       "url": "https://github.com/Lemenxzy/easy-customize-cli/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.1",
     "chalk-animation": "^1.6.0",
     "co": "^4.6.0",
-    "commander": "^2.15.1"
-  },
-  "dependencies": {
+    "commander": "^2.15.1",
     "figlet": "^1.2.0",
     "gradient-string": "^1.1.0",
     "inquirer": "^5.2.0"
