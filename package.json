@@ -1,6 +1,6 @@
 {
   "name": "easy-customize-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy-cli can help you quickly build your own scaffolding (cli), add, delete, check and other functions. ",
   "bin": {
     "easy": "bin/index.js"
@@ -10,15 +10,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "ISC",
-  "keywords": [ "js",  "cli" , "vue" , "react" , "json"],
+  "keywords": [
+    "js",
+    "cli",
+    "vue",
+    "react",
+    "json"
+  ],
   "engines": {
-     "node": ">=v6.14.2"
+    "node": ">=v6.14.2"
   },
   "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/Lemenxzy/easy-customize-cli"
-        }
+    {
+      "type": "MIT",
+      "url": "https://github.com/Lemenxzy/easy-customize-cli"
+    }
   ],
   "homepage": "https://github.com/Lemenxzy/easy-customize-cli",
   "author": {
@@ -26,7 +32,7 @@
     "email": "704694231@qq.com"
   },
   "bugs": {
-      "url": "https://github.com/Lemenxzy/easy-customize-cli/issues"
+    "url": "https://github.com/Lemenxzy/easy-customize-cli/issues"
   },
   "dependencies": {
     "chalk": "^2.4.1",
