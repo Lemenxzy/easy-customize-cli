@@ -12,19 +12,19 @@
 
  > add github template:
 
-   ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/add.gif)
+   ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/add.gif)
 
   > init:
 
-  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/init.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/init.gif)
 
   > edit:
 
-  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/edit.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/edit.gif)
 
   > delete:
 
-  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/delete.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/delete.gif)
 
 ## Use(使用)
 
