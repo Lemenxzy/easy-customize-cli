@@ -11,20 +11,24 @@
 ## example
 
  > add github template:
-
-   ![image](https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/add.gif)
+<div>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/add.gif'/>
+</div>
 
   > init:
-
-  ![image](https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/init.gif)
+<div>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/init.gif'/>
+</div>
 
   > edit:
-
-  ![image](https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/edit.gif)
+<div>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/edit.gif'/>
+</div>
 
   > delete:
-
-  ![image](https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/delete.gif)
+<div>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/delete.gif'/>
+</div>
 
 ## Use(使用)
 
