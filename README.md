@@ -1,7 +1,7 @@
 # easy-customize-cli
 
 [![image](https://img.shields.io/badge/Myblog-Mask-yellowgreen.svg)](https://maskblog.com)
-![image](https://img.shields.io/badge/npm-%3E%3D3.10.10-brightgreen.svg)
+[![image](https://img.shields.io/badge/npm-%3E%3D3.10.10-brightgreen.svg)](https://www.npmjs.com/package/easy-customize-cli)
 ![image](https://img.shields.io/npm/l/express.svg)
 
 - easy-customize-cli can help you quickly build your own scaffolding (cli), add, delete, check and other functions.
@@ -12,19 +12,19 @@
 
  > add github template:
 
-   ![image](imgs/add.gif)
+   ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/add.gif)
 
   > init:
 
-  ![image](imgs/init.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/init.gif)
 
   > edit:
 
-  ![image](imgs/edit.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/edit.gif)
 
   > delete:
 
-  ![image](imgs/delete.gif)
+  ![image](https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/imgs/delete.gif)
 
 ## Use(使用)
 
