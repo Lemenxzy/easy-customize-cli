@@ -12,7 +12,7 @@
 
  > add github template:
 <div>
-    <img src='https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/add.gif?raw=true'/>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/add.gif'/>
 </div>
 
   > init:
