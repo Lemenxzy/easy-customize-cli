@@ -17,17 +17,17 @@
 
   > init:
 <div>
-    <img src='https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/init.gif?raw=true'/>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/init.gif'/>
 </div>
 
   > edit:
 <div>
-    <img src='https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/edit.gif?raw=true'/>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/edit.gif'/>
 </div>
 
   > delete:
 <div>
-    <img src='https://github.com/Lemenxzy/easy-customize-cli/blob/master/imgs/delete.gif?raw=true'/>
+    <img src='https://rawcdn.githack.com/Lemenxzy/easy-customize-cli/master/imgs/delete.gif'/>
 </div>
 
 ## Use(使用)
